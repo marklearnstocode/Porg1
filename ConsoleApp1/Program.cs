@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+
             Console.Write("Skriv dit navn: ");
             string name = Console.ReadLine();
 
